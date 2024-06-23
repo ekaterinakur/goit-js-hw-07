@@ -140,6 +140,10 @@ input:focus {
   border-radius: 8px;
 }
 
+#controls button {
+  min-width: 120px;
+}
+
 #controls button[data-destroy] {
   background-color: #FF4E4E;
 }
